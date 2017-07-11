@@ -2,7 +2,6 @@
   "name": "@financial-times/n-syn-footer",
   "version": "0.0.0",
   "description": "Syndication Footer",
-  "main": "main.js",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Financial-Times/n-syn-footer.git"
