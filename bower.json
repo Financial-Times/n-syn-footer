@@ -14,5 +14,8 @@
   },
   "dependencies": {
     "o-footer": "^6.0.1"
+  },
+  "resolutions": {
+    "o-colors": "^4.0.1"
   }
 }
