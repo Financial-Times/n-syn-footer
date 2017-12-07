@@ -1,22 +1,22 @@
 .n-syn-footer__contact {
-  background-color: rgba(getColor('claret'), 1);
-  }
+	background-color: rgba(getColor('claret'), 1);
+}
 
 .n-syn-footer__contact .o-footer__container {
-  color: getColor('paper');
-  padding-bottom: 12px;
-  padding-top: 12px;
-  }
+	color: getColor('paper');
+	padding-bottom: 12px;
+	padding-top: 12px;
+}
 
 .n-syn-footer__contact .o-footer__container a {
-  color: getColor('white');
-  font-weight: bold;
+	color: getColor('white');
+	font-weight: bold;
 
-  &:hover {
-    color: oColorsGetPaletteColor('black-30');
-    }
-  }
+	&:hover {
+		color: oColorsGetPaletteColor('black-30');
+	}
+}
 
 .n-syn-footer__space {
-   padding-left: 20px;
-  }
+	padding-left: 20px;
+}
